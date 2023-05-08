@@ -1,0 +1,10 @@
+#wrapper{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 100%;
+}
+svg:hover path{
+    -webkit-transform-origin: center center;  /* Chrome, Safari */
+}

@@ -1,0 +1,12 @@
+Given a random starting position, between -30 and 30 in the X and or Y 
+position draw overlapping squares that will:
+1. change hue when moving left
+2. change saturation when moving up
+3. change lightness when moving down
+4. change saturation when moving right
+
+New instructions:
+Given a randomly selected hue at the beginning, starting at the middle of the canvas
+randomly change the position of each sqaure by changing its direction with each plot
+of their position change their satuation and lightness by thier current position
+changes in X will change lightness while the Y will control saturation

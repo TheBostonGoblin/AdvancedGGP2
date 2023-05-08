@@ -1,0 +1,22 @@
+
+.pieGraph{
+    -moz-user-select: none !important;
+    -khtml-user-select: none !important;
+    -webkit-user-select: none !important;
+    user-select: none !important;
+}
+.dashed{
+    stroke-dasharray: 5,5; 
+ }
+ .pieGraph1{
+    border: solid black 2px!important;
+ }
+ .barGraph1 {
+
+ }
+ .pieChart2 {
+
+ }
+ .circPack1 {
+
+ }

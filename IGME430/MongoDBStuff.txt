@@ -1,0 +1,6 @@
+mongodb+srv://TheBostonGoblin:<password>@cluster0.ifrosuu.mongodb.net/?retryWrites=true&w=majority
+mongodb+srv://TheBostonGoblin:Docpep82@cluster0.ifrosuu.mongodb.net/simpleMVCExample?retryWrites=true&w=majority
+mongodb+srv://TheBostonGoblin:Docpep82@cluster0.ifrosuu.mongodb.net/DomoA?retryWrites=true&w=majority
+mongodb+srv://TheBostonGoblin:Docpep82@cluster0.ifrosuu.mongodb.net/DomoMaker?retryWrites=true&w=majority
+127.0.0.1:27017 
+0.0.0.0/0
